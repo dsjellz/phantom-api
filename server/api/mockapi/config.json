@@ -1,0 +1,11 @@
+{
+  "name": "Coookie API",
+  "namespace": "cookies",
+  "info": "this is an api about cookies",
+  "routes": [
+    {
+      "method": "GET",
+      "url": "/"
+    }
+  ]
+}
